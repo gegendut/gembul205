@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gegendut/gembul205.git"
+    "url": "https://github.com/gegendut/gembul205.git"
   },
   "author": "",
   "license": "ISC",
